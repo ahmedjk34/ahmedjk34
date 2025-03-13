@@ -32,6 +32,8 @@
 
 
 
+# 🧑‍💻 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/ahmedtaherra?theme=dark&font=Nanum%20Gothic%20Coding)
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmedjk34&theme=dark&hide_border=false)<br/>
