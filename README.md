@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ **Hi, I'm a Full-Stack Web Developer**  <br>- 💻 Specializing in **NextJS**, **Typescript**, **SCSS**, and **PostgreSQL / MongoDB**  <br>- 🎓 **3rd-year Computer Engineering student** with a **GPA of 3.97**  <br>- 🚀 Passionate about **frontend** & **backend** development  <br>- 🔧 Strong foundation in **algorithms**, **data structures**, and **software design**  <br>- 💡 Continuously learning and staying up-to-date with the latest trends  <br>- 🌟 Always eager to create **innovative** and **impactful web solutions**  <br>- 🔗 Connect with me and check out my projects below!  <br>
+✨ **Hi, I'm a Full-Stack Web Developer**  <br>- 💻 Specializing in **NextJS**, **Typescript**, **SCSS**, and **PostgreSQL / MongoDB**  <br>- 🎓 **4th-year Computer Engineering student** with a **GPA of 3.97**  <br>- 🚀 Passionate about **frontend** & **backend** development  <br>- 🔧 Strong foundation in **algorithms**, **data structures**, and **software design**  <br>- 💡 Continuously learning and staying up-to-date with the latest trends  <br>- 🌟 Always eager to create **innovative** and **impactful web solutions**  <br>- 🔗 Connect with me and check out my projects below!  <br>
 <br>
   <img src="https://komarev.com/ghpvc/?username=ahmedjk34&color=brightgreen&style=flat-square" alt="Profile Views">
 <br>
