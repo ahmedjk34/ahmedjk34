@@ -1,107 +1,247 @@
-# 💫 About Me:
-✨ **Full-Stack Engineer & ML Developer**  
-<br>- 🚀 **Founder & Lead Engineer** at **Aween Rayeh** – serving 109,000+ monthly users across Palestine
-<br>- 💻 Specializing in **Next.js**, **TypeScript**, **React**, **Node.js**, **PostgreSQL**, and **production ML/AI systems**
-<br>- 🎓 **4th-year Computer Engineering student** at An-Najah National University with a **GPA of 3.97/4.0**
-<br>- 🏆 **Full-ride scholarship** recipient from Palestinian Ministry of Education
-<br>- 🤖 Expert in **ML pipelines**, **RAG systems**, **fine-tuning LLMs**, and **scalable cloud architecture (AWS Lambda)**
-<br>- 🔧 Strong foundation in **algorithms**, **system design**, **data structures**, and **production-grade engineering**
-<br>- 📊 Built ML systems with **96% accuracy**, platforms serving **100K+ users**, and recommendation engines with **93% variance retention**
-<br>- 🌟 Passionate about solving **real-world problems** through **technical innovation** and **rigorous engineering**
-<br>- 🔗 Check out my portfolio and projects below!
-<br>
-<br>
-  <img src="https://komarev.com/ghpvc/?username=ahmedjk34&color=brightgreen&style=flat-square" alt="Profile Views">
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ahmed%20Gharib&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Founder%20Engineer%20%7C%20Building%20Production%20Systems%20in%20Palestine&descSize=18&descAlignY=65&descColor=aaaacc&animation=fadeIn" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedjk34) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ahmedjk34.github.io/portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedtaher212005@gmail.com) 
-
-## 🚀 Featured Projects:
-
-### 🗺️ **Aween Rayeh** - Real-Time Checkpoint Platform
-- Serving **109,000+ monthly users** across Palestine with critical checkpoint status updates
-- Built with **Next.js**, **Supabase**, and **React Native** (mobile)
-- **Production ML pipeline** on AWS Lambda with **96% accuracy** using fine-tuned 7B Mixtral model
-- **63% cost reduction** through intelligent heuristic optimization
-- Real-time data extraction from Telegram channels with dynamic intervals
-
-### 🎵 **GenieFi** - AI Music Recommendation Platform
-- Processing **8K+ songs** with **223-dimensional audio features** (MFCCs, VGGish embeddings)
-- **93% variance retention** via 4 clustering algorithms (K-Means, GMM, Hierarchical, DBSCAN)
-- **73% improvement** in user preference over baseline (A/B tested with 15 participants)
-- Context-aware LLM playlist generator with **86% satisfaction rate**
-- Full-stack Next.js app with Turso backend and natural language search
-
-### 📡 **Smart WiFi Manager** - ML Rate Adaptation System
-- Achieved **99.5% train/test parity** across **24.5M samples**
-- **15-40% throughput improvement** over Minstrel-HT baseline
-- **5-8× improvement** in rare-class recall with sub-1ms latency
-- Memory-efficient reservoir sampling processing **38M rows** in constant 20MB
-- Reduced class imbalance from 100:1 to 20:1
-
-# 💻 Tech Stack:
-
-### Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend & Web Technologies
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
-![Mongoose](https://img.shields.io/badge/Mongoose-%23363636.svg?style=for-the-badge&logo=mongoose&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Machine Learning & AI
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-### Tools & Libraries
-![NextAuth](https://img.shields.io/badge/NextAuth.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=blue)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 🧑‍💻 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ahmedtaherra?theme=dark&font=Nanum%20Gothic%20Coding" alt="LeetCode Stats">
+  <a href="https://linkedin.com/in/ahmedjk34">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ahmedjk34.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ahmed.gharib.offical@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ahmedjk34&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" />
 </p>
 
-# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahmedjk34&theme=dark&hide_border=false" alt="Github Streak and Stats">
-<br/>
-<br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=820&height=45&lines=Co-Founder+%26+CTO+%40+Prospect+Engine+LLC;Co-Founder+%26+Lead+Engineer+%40+A+Ween+Rayeh;109%2C000%2B+monthly+users+across+Palestine;Production+ML+%7C+Distributed+Systems+%7C+Full-Stack+Engineering" alt="Typing SVG" />
 </p>
 
 ---
 
+## Who I Am
+
+Computer Engineering student at **An-Najah National University** with a **3.97/4.0 GPA** and a full-ride scholarship, but my real identity is as a **founder-engineer** building systems that operate under real usage, real constraints, and real production pressure.
+
+I work at the intersection of **distributed systems**, **production ML**, and **full-stack engineering** — owning architecture, infrastructure, pipelines, and product delivery end to end.
+
+---
+
+## Currently Building
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### A Ween Rayeh &nbsp; ![LIVE](https://img.shields.io/badge/LIVE-22c55e?style=flat-square)
+
+**Co-Founder & Lead Engineer** · *March 2025 – Present*
+
+Real-time checkpoint status platform for daily travel across Palestine. When roads close or checkpoints shift, **109,000+ monthly users** know in under 30 seconds.
+
+- ML pipeline on AWS Lambda: Telegram → RAG + fine-tuned models → structured output at dynamic 30s / 3min intervals
+- **96% ML accuracy** · **63% inference cost reduction**
+- Full-stack Next.js + Supabase platform
+- Mobile architecture oversight and technical supervision
+- 100K+ behavioral analytics events driving iteration
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-8B5CF6?style=flat-square)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-6366f1?style=flat-square)
+
+  </td>
+  <td width="50%" valign="top">
+
+### Prospect Engine LLC &nbsp; ![LIVE](https://img.shields.io/badge/LIVE-22c55e?style=flat-square)
+
+**Co-Founder & CTO** · *October 2025 – Present*
+
+Distributed B2B prospecting and enrichment engine built from scratch around validation, enrichment, monetization, and scalable execution.
+
+- Proprietary email validation engine with **97% benchmark accuracy**
+- Redis-backed workers and horizontally scalable VPS execution
+- Cost-aware AI enrichment improving completion while reducing LLM spend
+- PostgreSQL RLS, wallet logic, subscriptions, and Stripe reconciliation
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## Selected Projects
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+
+#### CircuitAI — Graduation Project
+
+End-to-end hardware learning platform combining LMS flows, browser digital logic simulation, SPICE electrical analysis, and RAG-powered educational AI.
+
+**80+ API endpoints · 92% source-grounded responses · ~60% hallucination reduction**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SPICE](https://img.shields.io/badge/SPICE-gray?style=flat-square)
+![Vector DB](https://img.shields.io/badge/Vector_DB-8B5CF6?style=flat-square)
+
+  </td>
+  <td width="33%" valign="top">
+
+#### GenieFi — Music Recommendation
+
+Recommendation engine built on **8,000 songs** and **223 audio features** using PCA, clustering, and weighted similarity scoring.
+
+**73% preference improvement over baseline in A/B testing**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Turso](https://img.shields.io/badge/Turso-4F46E5?style=flat-square)
+![PCA](https://img.shields.io/badge/PCA+%2B+Clustering-gray?style=flat-square)
+
+  </td>
+  <td width="33%" valign="top">
+
+#### Smart WiFi Manager — ML
+
+ML system for network behavior classification and rare-class detection.
+
+**24.5M samples · corrected inflated 99.9% to real 49.9% accuracy · 5–8× rare-class recall**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-gray?style=flat-square)
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## Languages & Technology Stack
+
 <p align="center">
-  <i>💡 Open to collaborating on impactful full-stack and ML projects</i>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Primary-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Production-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems-C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundation-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub><b>Languages</b> · TypeScript · JavaScript · Python · Java · C · C++</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,html,css&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Next.js%20%2B%20React-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub><b>Web Engineering</b> · Next.js · React · Node.js · Express · Tailwind · SSR · REST APIs</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+  <img src="https://img.shields.io/badge/RAG-Production%20Pipelines-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-Fine--Tuning-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-PCA%20%2B%20Clustering-7C3AED?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub><b>AI / ML</b> · PyTorch · TensorFlow · Scikit-learn · RAG · Fine-tuning · Feature Engineering · Clustering</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase,aws,docker,nginx,git,figma,vercel,cloudflare&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%2F%20MongoDB-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infra-AWS%20%2F%20Docker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Runtime-Redis%20%2F%20Nginx-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub><b>Infrastructure & Data</b> · PostgreSQL · MongoDB · Redis · Supabase · AWS · Docker · Nginx · Vercel · Cloudflare</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Strengths-Distributed%20Systems-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Strengths-Production%20ML-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Strengths-Full--Stack%20Architecture-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Strengths-Systems%20Thinking-8B5CF6?style=flat-square" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=ahmedjk34&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=7d8590" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedjk34&bg_color=0d1117&color=c9d1d9&line=8B5CF6&point=8B5CF6&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedjk34&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" />
+</p>
+
+---
+
+## Numbers That Matter
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Monthly_Users-109%2C000%2B-8B5CF6?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ML_Accuracy-96%25-22c55e?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Email_Validation-97%25-22c55e?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Leads_Per_Run-500%2B-f59e0b?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Cost_Reduction-63%25-ef4444?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GPA-3.97%2F4.0-8B5CF6?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+---
+
+## Education
+
+**An-Najah National University** — B.Sc. in Computer Engineering · `Sep 2022 – Aug 2026`
+
+- GPA: **3.97 / 4.0**
+- Full-ride scholarship
+- Accelerated track
+- Core focus: algorithms, systems, software engineering, databases, and machine learning
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
