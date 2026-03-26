@@ -16,19 +16,20 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate GitHub Metrics
+      - name: Generate simplified GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ahmedjk34
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Asia/Hebron
+
+          plugin_skyline: yes
+          plugin_skyline_year: current
+          plugin_skyline_frames: 1
+
           plugin_languages: yes
-          plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_isocalendar: yes
-          plugin_followup: yes
-          plugin_lines: yes
-          plugin_traffic: yes
+          plugin_languages_limit: 8
