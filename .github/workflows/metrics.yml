@@ -1,0 +1,34 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ahmedjk34
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Hebron
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_isocalendar: yes
+          plugin_followup: yes
+          plugin_lines: yes
+          plugin_traffic: yes
