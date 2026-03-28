@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/109K%2B-Mission--Critical%20Users-8B5CF6?style=flat-square&labelColor=111827" />
   <img src="https://img.shields.io/badge/96%25-Production%20ML%20Accuracy-22C55E?style=flat-square&labelColor=111827" />
   <img src="https://img.shields.io/badge/97%25-System%20Validation%20Accuracy-22C55E?style=flat-square&labelColor=111827" />
-  <img src="https://img.shields.io/badge/3.97%2F4.0-Top%20Tier%20GPA-2563EB?style=flat-square&labelColor=111827" />
+  <img src="https://img.shields.io/badge/3.97%2F4.0-%20GPA-2563EB?style=flat-square&labelColor=111827" />
 </p>
 
 ---
