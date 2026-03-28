@@ -24,20 +24,6 @@
 
 ---
 
-## Education
-
-<p align="center">
-  <img src="https://img.shields.io/badge/An--Najah%20National%20University-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Engineering-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPA-3.97%2F4.0-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Scholarship-2563EB?style=for-the-badge" />
-</p>
-
-<p align="center">
-  Accelerated program • 130+ credit hours in 3 years • Sep 2022 – Aug 2026
-</p>
-
----
 
 ## Work (Production Systems)
 
@@ -121,7 +107,20 @@
 </p>
 
 ---
+## Education
 
+<p align="center">
+  <img src="https://img.shields.io/badge/An--Najah%20National%20University-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Engineering-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPA-3.97%2F4.0-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Scholarship-2563EB?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Accelerated program • 130+ credit hours in 3 years • Sep 2022 – Aug 2026
+</p>
+
+---
 ## LeetCode
 
 <p align="center">
@@ -130,4 +129,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=30,24,20,14,12&text=Design%20systems.%20Survive%20reality.%20Scale%20impact.&fontSize=22&fontColor=ffffff&fontAlignY=72" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=30,24,20,14,12&text=Build%20for%20real%20users.%20Engineer%20for%20real%20constraints.&fontSize=22&fontColor=ffffff&fontAlignY=72" />
