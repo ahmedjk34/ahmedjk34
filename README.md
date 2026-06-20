@@ -28,7 +28,7 @@
 ## Work (Production Systems)
 
 ### Prospect Engine LLC  
-**Co-Founder & CTO**
+**Founding Engineer & CTO**
 
 - Built a **distributed validation engine** achieving **97% accuracy**, matching industry-grade systems through reverse engineering and benchmarking  
 - Designed a **Redis + Celery distributed architecture** with horizontally scalable worker fleets and Nginx load balancing  
